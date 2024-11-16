@@ -37,14 +37,16 @@ pip install -r requirements.txt
 pip3 install -r requirements.txt
 ```
 ### Run the Bot
-- Replace the proxies example in ```proxies.txt``` to your own proxies with format:
+
+Replace the proxies example in ```proxies.txt``` to your own proxies with format:
+
 ```bash
 http://host:port
 http://user:pass@host:port
 ```
 **only http proxies support for now**
 
-#### Run command:
+#### Run Command:
 
 - Windows:
 ```bash
