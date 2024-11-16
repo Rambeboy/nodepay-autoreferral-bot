@@ -4,7 +4,7 @@ Automatic Referral script for Nodepay Account using captcha solver and proxies.
 
 ### Tools and Components Required
 
-1. Nodepay Account | Register: [https://app.nodepay.ai/register](https://app.nodepay.ai/register?ref=ZUCBuJaIoBXLE6J)
+1. Nodepay Account : [Register Here](https://app.nodepay.ai/register?ref=fkCYv2psxv9YkrM)
 
 2. Proxies Static Residental | [FREE 10 PREMIUM PROXIES](https://www.webshare.io) | [Free 100 Premium Proxies](https://proxyscrape.com) | Good
 
