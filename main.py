@@ -16,8 +16,8 @@ init(autoreset=True)
 def print_banner():
     print(f"\n{Fore.CYAN}{'='*45}")
     print(f"{Fore.YELLOW}       NODEPAY AUTO REFERRAL BOT")
-    print(f"{Fore.YELLOW}       Author : Nofan Rambe")
-    print(f"{Fore.YELLOW}       Welcome & Enjoy Sir!")
+    print(f"{Fore.YELLOW}         Author : Nofan Rambe")
+    print(f"{Fore.YELLOW}         Welcome & Enjoy Sir!")
     print(f"{Fore.CYAN}{'='*45}\n")
 
 def log_step(message: str, type: str = "info"):
